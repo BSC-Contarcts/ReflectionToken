@@ -5,7 +5,7 @@
 TG: https://t.me/TBA
 Website: https://TBA
 
-BUSD refelction Token design by BigB
+BUSD reflection Token design by BigB
 
 */
 
