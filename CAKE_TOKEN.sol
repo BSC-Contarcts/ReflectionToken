@@ -1,7 +1,7 @@
 /**
 TG: https://t.me/TBA
 Website: https://TBA
-Cake reflection Token design by BigB @ADM1N_BSC_CONTRACTS
+Cake reflection Token design by BigB
 */
 
 //SPDX-License-Identifier: MIT
