@@ -202,7 +202,7 @@ contract DividendDistributor is IDividendDistributor {
         uint256 totalRealised;
     }
 
-    IBEP20 CAKE = IBEP20(0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82); // Current CAKE Rewards Mainnet 
+    IBEP20 CAKE = IBEP20(0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82); // Current CAKE Rewards Mainnet 
     address WBNB = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c;
     IDEXRouter router;
 
@@ -365,7 +365,7 @@ contract DividendDistributor is IDividendDistributor {
 contract TGTOKEN is IBEP20, Auth {
     using SafeMath for uint256;
 
-    address CAKE = 0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82;
+    address CAKE = 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82;
     address WBNB = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c;
     address DEAD = 0x000000000000000000000000000000000000dEaD;
     address ZERO = 0x0000000000000000000000000000000000000000;
